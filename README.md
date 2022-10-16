@@ -33,6 +33,8 @@ The following is display of first two rows of the datasets :
 
 ## Stores Information Datasets
 
+The following is display of first two rows of the datasets :
+
 | Store  | StoreType | Assortment | CompetitionDistance | CompetitionOpenSinceMonth | Promo2 | Promo2SinceWeek | Promo2SinceYear | PromoInterval| 
 | ------------- | ------------- | ------------ | ------------- |------------- |-------------  |------------- | ------------- |------------- |
 | 1114  | a | c | 870.0 | NaN | 0 | NaN | NaN | NaN | NaN |
