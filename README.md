@@ -139,7 +139,7 @@ It looks like sales and number of customers peak around Saturday and Sunday
 
 Promo can increased the number of sales and customers
 
-# Train the Model Part A
+# 4. Train the Model Part A
 
 We utilized facebook prophet for our predictive model. We trained the model with historical data of sales from each stores. 
 The following is the result of our forecasting of store number 10 sales for 60 days :
@@ -148,7 +148,7 @@ The following is the result of our forecasting of store number 10 sales for 60 d
 
 ![Fb Prophet Model A-2](https://user-images.githubusercontent.com/107464383/196038976-85c826c3-1332-47f3-8755-be26b3ae80ac.PNG)
 
-# Train the Model Part B
+# 5. Train the Model Part B
 
 In this part, we incorporated the holidays information into our model.
 The following is the result of our forecasing of store number 6 sales for 90 days :
