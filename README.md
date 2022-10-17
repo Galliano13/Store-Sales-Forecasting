@@ -105,7 +105,7 @@ The reason we fill them up with zero because the value of promo2 column. It seem
 We succesfully cleaned the dataset, lets merge them into one dataset. The following is first two row of merged dataset :
 
 | Store  | DayofWeek | Date | Sales | Customers | Promo | StateHoliday | SchoolHolidays | StoreType | Assortment | CompetitionDistance | CompetitionOpenSinceMonth | Promo2 | Promo2SinceWeek | Promo2SinceYear | PromoInterval|
-| ------------- | ------------- | ------------ | ------------- |-------------  |------------- | ------------- |------------- || ------------- | ------------ | ------------- |------------- |-------------  |------------- | ------------- |------------- |
+| ------------- | ------------- | ------------ | ------------- |-------------  |------------- | ------------- |------------- | ------------- | ------------ | ------------- |------------- |-------------  |------------- | ------------- |------------- |
 | 1  | 5  | 2015-07-31 | 5263 | 555 | 1  | 0  |1  | c | a | 1270.0 | 9.0 | 2008.0 | 0 | 0.0 | 0.0 | 0 |
 | 1  | 4  | 2015-07-30 | 5020 | 546 | 1  | 0  |1  | c | a | 1270.0 | 9.0 | 2008.0 | 0 | 0.0 | 0.0 | 0 |
 
